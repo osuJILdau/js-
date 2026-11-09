@@ -60,6 +60,3 @@ generateMultiplicationTable(3);           // выводит таблицу от 
 sumOfDigits(123);                         // 6
 repeatString('ab', 3);                    // 'ababab'
 ```
-6. Если нужно закрепить проект в профиле: **Your profile → Customize your pins → js-tasks → Save pins**.
-
-Проект не требует сторонних библиотек или серверной настройки.
