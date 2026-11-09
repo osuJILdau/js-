@@ -60,14 +60,6 @@ generateMultiplicationTable(3);           // выводит таблицу от 
 sumOfDigits(123);                         // 6
 repeatString('ab', 3);                    // 'ababab'
 ```
-
-## Как разместить на GitHub
-
-1. Откройте [github.com/new](https://github.com/new).
-2. Назовите репозиторий `js-tasks`, выберите `Public`, нажмите **Create repository**.
-3. Откройте **Add file → Upload files**.
-4. Загрузите **все файлы из папки проекта**: `solutions.js`, `tests.js`, `index.html`, `package.json`, `README.md`. ZIP-архив распакуйте заранее.
-5. Нажмите **Commit changes**.
 6. Если нужно закрепить проект в профиле: **Your profile → Customize your pins → js-tasks → Save pins**.
 
 Проект не требует сторонних библиотек или серверной настройки.
