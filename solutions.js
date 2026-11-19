@@ -5,7 +5,7 @@
 // Делает первую букву заглавной, не изменяя остальные символы.
 function capitalizeFirstLetter(str) {
   if (str.length === 0) return str;
-  return str[0].toUpperCase() + str.slice(1;
+  return str[0].toUpperCase() + str.slice(1);
 }
 
 // Возвращает строку в обратном порядке.
