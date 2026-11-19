@@ -60,3 +60,14 @@ generateMultiplicationTable(3);           // выводит таблицу от 
 sumOfDigits(123);                         // 6
 repeatString('ab', 3);                    // 'ababab'
 ```
+
+## Проверка кода для лабораторной работы № 2
+
+В каталоге `src` находятся зависимости линтера. Для проверки из корня проекта выполните:
+
+```sh
+(cd src && npm ci)
+make lint
+```
+
+GitHub Actions запускает эту же проверку при отправке изменений в `main` или `master` и для pull request в эти ветки.
